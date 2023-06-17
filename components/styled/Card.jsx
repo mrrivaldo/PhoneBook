@@ -35,12 +35,12 @@ const styles = StyleSheet.create({
     margin: 10,
     alignSelf: "center",
 
-    width: 130,
+    width: 110,
     flexDirection: "column",
   },
   profileImage: {
-    width: 100,
-    height: 100,
+    width: 70,
+    height: 70,
     borderRadius: 50,
     marginBottom: 8,
   },

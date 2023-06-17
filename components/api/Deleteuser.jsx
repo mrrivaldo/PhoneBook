@@ -27,7 +27,6 @@ const DeleteUser = ({ userId, onDelete }) => {
 
 const styles = StyleSheet.create({
   container: {
-    marginLeft: 5,
     alignItems: "center",
     justifyContent: "center",
   },

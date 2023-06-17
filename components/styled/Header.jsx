@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     borderBottomWidth: 1,
     borderBottomColor: "#ddd",
+    marginTop: 25,
   },
   title: {
     fontSize: 22,
