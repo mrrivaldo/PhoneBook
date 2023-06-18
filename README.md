@@ -51,9 +51,5 @@ Contributions to the Phonebook App are welcome! If you encounter any issues or h
 
 Before contributing, please familiarize yourself with the [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-The Phonebook App is open source and available under the [MIT License](LICENSE).
-
 
 Feel free to reach out if you have any feedback or suggestions for the app. Enjoy managing your contacts with the Phonebook App!
